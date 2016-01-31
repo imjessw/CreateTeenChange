@@ -1,0 +1,55 @@
+html, body{
+    height:100%;
+}
+
+h1 {color:#cbbb9f;}
+p {color:#cbbb9f;}
+h2{
+    font-family:;
+    font-size: 20px;
+}
+body{
+    font-family:sans-serif;
+    font-size: 20;
+}
+
+p {
+    text-align: center;
+    Margin: auto;
+    Max-Width: 800px;
+    font-size: 20px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+h1 catH{
+    margin-bottom: 10px;
+}
+ul{
+    list-style:none;
+    padding-left:0px;
+}
+li{
+    color:#cbbb9f;
+    text-decoration:none;
+    margin-bottom:10px;
+}
+
+.center{
+    margin:0 auto;
+    text-align:center;
+}
+
+footer{ 
+     padding: 50px;
+     
+     
+}
+#Slack { 
+    padding:30px;
+    
+    font-size:36px;
+
+}
+a.internLinks{
+    color:#cbbb9f;
+}
